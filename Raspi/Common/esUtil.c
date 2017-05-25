@@ -152,8 +152,8 @@ EGLBoolean WinCreate(ESContext *esContext, const char *title)
    }
    
    // You can hardcode the resolution here:
-   display_width = 640;
-   display_height = 480;
+   //PGB display_width = 640;
+   //PGB display_height = 480;
 
    dst_rect.x = 0;
    dst_rect.y = 0;
